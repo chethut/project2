@@ -15,7 +15,7 @@
   <packaging>hpi</packaging>
 
   <name>SonarQube Scanner for Jenkins</name>
-  <url>https://github.com/jenkinsci/sonarqube-plugin</url>
+  <url>http://15.207.249.92:9000/</url>
   <inceptionYear>2007</inceptionYear>
   <organization>
     <name>SonarSource</name>
